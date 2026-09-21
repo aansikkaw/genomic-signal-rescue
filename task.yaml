@@ -1,0 +1,4 @@
+name: genomic-signal-rescue
+description: Rescue a genomic processing pipeline by implementing memory-safe chunking and a digital high-pass filter to remove sensor drift.
+domain: Scientific computing
+difficulty: hard

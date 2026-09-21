@@ -1,0 +1,5 @@
+{"task_id": "genomic_rescue_001", "model": "Agent_A", "reward": 1.0, "per_criterion": {"1": 1, "2": 1, "3": 1}}
+{"task_id": "genomic_rescue_001", "model": "Agent_B", "reward": 1.0, "per_criterion": {"1": 1, "2": 1, "3": 1}}
+{"task_id": "genomic_rescue_001", "model": "Agent_C", "reward": 0.4, "per_criterion": {"1": 1, "2": 1, "3": 0}}
+{"task_id": "genomic_rescue_001", "model": "Agent_D", "reward": 0.4, "per_criterion": {"1": 1, "2": 1, "3": 0}}
+{"task_id": "genomic_rescue_001", "model": "Agent_E", "reward": 0.0, "per_criterion": {"1": 0, "2": 0, "3": 0}}

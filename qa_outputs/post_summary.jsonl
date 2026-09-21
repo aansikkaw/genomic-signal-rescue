@@ -1,0 +1,1 @@
+{"task_id": "genomic_rescue_001", "models": ["Agent_A", "Agent_B", "Agent_C", "Agent_D", "Agent_E"], "n_samples": 5, "avg_reward": 0.56, "min_reward": 0.0, "max_reward": 1.0, "n_criteria": 3, "n_zero_pass": 0, "zero_pass_criteria": []}

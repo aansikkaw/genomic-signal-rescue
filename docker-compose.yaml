@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  agent_env:
+    build: .
+    deploy:
+      resources:
+        limits:
+          memory: 1.5G 
+    volumes:
+      - ./workspace:/workspace
